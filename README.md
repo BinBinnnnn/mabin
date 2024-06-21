@@ -10,8 +10,8 @@ student id   :  20222117
 
 
 
-application url:  http://47.236.59.240:8081/
-http://47.236.59.240:8085/
+application url:  http://47.237.81.89:8082/
+http://47.237.81.89:8085/
 
 
 
